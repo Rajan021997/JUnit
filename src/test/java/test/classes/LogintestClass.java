@@ -28,6 +28,7 @@ public class LogintestClass {
         driver.get("https://www.saucedemo.com");
         loginPage=new LoginPage(driver);
         readWriteClasses =new ReadWriteClasses();
+        System.out.println("SIYA");
 
 
     }
